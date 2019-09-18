@@ -1,3 +1,3 @@
 # hello-world
 Repositorio de prueba
-Modificacion posterior en rama edicion
+En esto consiste este proyecto de prueba
